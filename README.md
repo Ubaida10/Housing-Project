@@ -1,3 +1,6 @@
+
+### Housing Project:
+
 ````markdown
 # Housing Project (Angular + JSON Server)
 
@@ -106,7 +109,6 @@ db.json
 
 ---
 
-
 ## 📄 License
 
 MIT – free to use and modify.
@@ -115,5 +117,5 @@ MIT – free to use and modify.
 
 ---
 
-Let me know if you want it tailored for GitHub Pages deployment or Docker setup too.
+Let me know if you want it adapted for deployment (e.g., GitHub Pages, Firebase, or Docker).
 ```
